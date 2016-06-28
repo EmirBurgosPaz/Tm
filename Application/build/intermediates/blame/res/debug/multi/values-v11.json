@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\peterr\\AndroidStudioProjects\\Tm\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "/home/peter/src/Tm/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 115
                 },
                 "from": {
-                    "file": "C:\\Users\\peterr\\AndroidStudioProjects\\Tm\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "file": "/home/peter/src/Tm/Application/src/main/res/values-v11/template-styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
