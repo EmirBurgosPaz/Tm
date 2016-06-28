@@ -2,20 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.2_3b1bdc599c5a32edf95403999838a2dd0eb576c7.jar" />
-    </item>
-    <item
-        jar="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
-        <dex dex="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-21.0.2_7da757692fae39adcde3bb68a62997bc38ee70a7.jar" />
-    </item>
-    <item
         jar="C:\cygwin\home\peterr\src\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
         jumboMode="false"
         revision="21.1.1"
@@ -28,6 +14,20 @@
         revision="21.1.1"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
         <dex dex="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.2_a8758b1fef8dd037559749e397a6ef51e80a1e05.jar" />
+    </item>
+    <item
+        jar="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.2_3b1bdc599c5a32edf95403999838a2dd0eb576c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-21.0.2_7da757692fae39adcde3bb68a62997bc38ee70a7.jar" />
     </item>
     <item
         jar="C:\Users\peterr\AndroidStudioProjects\Tm\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\jars\classes.jar"
